@@ -7,6 +7,31 @@ body{
     font-size: 12px;
 }
 
+.red-color {
+    color: #d90d0d;
+}
+
+.white-color {
+    color: #ffffff;
+}
+
+.blue-color {
+
+    color: #1880e7;
+}
+
+.yellow-color {
+    color: #cecb1d;
+}
+
+.green-color {
+    color: #2d8525;
+}
+
+.dark-red-color {
+    color:#c81e2fd3;
+}
+
 a{
     text-decoration: none;
     color: #eee;
